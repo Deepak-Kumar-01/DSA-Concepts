@@ -1,0 +1,7 @@
+#According to ArrayUseCase Program
+#TRAVERSAL
+1.ArrayList is faster than LinkedList
+#Random Access
+1.ArrayList is faster than LinkedList
+#Insertion
+1.ArrayList is faster than LinkedList
