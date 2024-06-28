@@ -15,6 +15,7 @@ public class MyLinkedList {
         //Remove the first and last elements from the list and print the list.
         list.removeFirst();
         list.removeLast();
+//        list.pop();//can be use as stack
         System.out.println(list);
     }
 }
